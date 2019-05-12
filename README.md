@@ -6,3 +6,5 @@ I hope this might help anyone who has an interest in the book and C language as 
  - Body Mass Index Calculator (Chapter 2)
  - Largest and Smallest Integers in the Group (Chapter 2)
  - Separating Digits in an Integer (Chapter 2)
+ - Find the Largest Number (Chapter 3)
+ - Find the Two Largest Numbers (Chapter 3)
