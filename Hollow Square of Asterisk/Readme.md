@@ -4,8 +4,11 @@ Write a program that reads in the side of a hollow square and then prints that s
 
 For example, if your program reads a size of 5, it should print
 
->**\*\*\*
-*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *
-*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *
-*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *
-**\*\*\*
+```html
+
+****
+*  *
+*  *
+****
+
+```

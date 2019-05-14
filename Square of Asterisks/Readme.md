@@ -4,7 +4,9 @@ Write a program that reads in the side of a square and then prints that square o
 
 For example, if your program reads a size of 4, it should print
 
-> **\*\*
-**\*\*
-**\*\*
-**\*\*
+```html
+****
+****
+****
+****
+```
