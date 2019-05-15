@@ -16,3 +16,4 @@ I hope this might help anyone who has an interest in the book and C language as 
  - Counting 7s (Chapter 3)
  - Checkerboard Pattern of Asterisks (Chapter 3)
  - Factorial - Calculate Value of the Mathematical Constant e (Chapter 3)
+ - Target-Heart-Rate Calculator (Chapter 3)
